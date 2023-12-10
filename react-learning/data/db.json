@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "REACT USER",
+      "body": "We all are a new user try to use the react to make a React App and try to get the entryship to some offices.",
+      "author": " Syed ",
+      "id": 1
+    },
+    {
+      "title": "React Library",
+      "body": "React is Most beautiful library in JavaScript for web developers.",
+      "author": " Khan ",
+      "id": 2
+    },
+    {
+      "title": "USO Students",
+      "body": "Welcome to USO.\nIn program of BSCS.",
+      "author": " USO Student ",
+      "id": 3
+    }
+  ]
+}
